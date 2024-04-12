@@ -1,0 +1,17 @@
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\bin\Debug\Zurrapa Vb v2.exe.config
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\bin\Debug\Zurrapa Vb v2.exe
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\bin\Debug\Zurrapa Vb v2.pdb
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\bin\Debug\Zurrapa Vb v2.xml
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa Vb v2.vbproj.AssemblyReference.cache
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa Vb v2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa_Vb_v2.Form1.resources
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa_Vb_v2.Resources.resources
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa Vb v2.vbproj.GenerateResource.cache
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa Vb v2.vbproj.CoreCompileInputs.cache
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa Vb v2.exe
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa Vb v2.xml
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa Vb v2.pdb
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa_Vb_v2.consultar.resources
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa_Vb_v2.stock.resources
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa_Vb_v2.FzrPedido.resources
+C:\Users\guinu\OneDrive\Ambiente de Trabalho\Zurrapa app\Zurrapa Vb v2\Zurrapa Vb v2\obj\Debug\Zurrapa_Vb_v2.fecho.resources

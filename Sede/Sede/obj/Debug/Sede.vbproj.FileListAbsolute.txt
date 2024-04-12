@@ -1,0 +1,15 @@
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.vbproj.AssemblyReference.cache
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.Bar.resources
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.Dia.resources
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.Form1.resources
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.Resources.resources
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.vbproj.GenerateResource.cache
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\bin\Debug\Sede.exe.config
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\bin\Debug\Sede.exe
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\bin\Debug\Sede.pdb
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\bin\Debug\Sede.xml
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.exe
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.xml
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Sede\Sede\obj\Debug\Sede.pdb

@@ -1,0 +1,16 @@
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\bin\Debug\Armazem.exe.config
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\bin\Debug\Armazem.exe
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\bin\Debug\Armazem.pdb
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\bin\Debug\Armazem.xml
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.vbproj.AssemblyReference.cache
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.Form1.resources
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.Resources.resources
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.vbproj.GenerateResource.cache
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.exe
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.xml
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.pdb
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.Inventario.resources
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.AtualizarArmazem.resources
+C:\Users\Maria Pais\Documents\UBI\2 ano\1 Semestre\Base de Dados\Trabalho\Armazem\Armazem\obj\Debug\Armazem.TransferirStock.resources
